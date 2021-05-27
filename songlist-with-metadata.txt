@@ -179,6 +179,81 @@ Misc info    : The illustration artist is 'Akimiya', and while the artist has a 
                Akimiya appears to have went by the name 'ピアノ' (Piano) previously. They are also known as 'Agneschen'.
                After a while of hiatus, Akimiya has expressed on Twitter (15 Jul 2020) that they intend to get back into working on illustrations.
 
+Title        : no11room - LuLu
+Upload date  : Aug 24, 2015
+YT ID        : 4W4brKayXxM
+Track source : https://soundcloud.com/no11room/lulu
+Art source   : https://www.deviantart.com/akimiya/art/the-end-of-the-world-343204413
+Misc info    : Another one of Akimiya's illustration posted on Deviantart.
+
+Title        : Fusigi - Ador
+Upload date  : Jul 22, 2015
+YT ID        : qmzBYyN_8Qw
+Track source : https://soundcloud.com/fusigi/ador
+Art source   : https://www.pixiv.net/en/artworks/51320842
+Misc info    : -
+
+Title        : Katsudou Shashin - 2013/08/06
+Upload date  : Jul 19, 2015
+YT ID        : I7EU1344B0Q
+Track source : https://soundcloud.com/katsudou-syashin/0rp0tt6if05d
+Art source   : https://www.pixiv.net/en/artworks/48195946
+Misc info    : 1) Illustration also posted on artist's Deviantart profile: https://www.deviantart.com/mano-k/art/autumn-love-507239677
+               2) '2013/08/06' is not actually the title of the soundtrack, but rather the date it was posted by Katsudou Shashin on SoundCloud.
+                  The soundtrack is still nameless, up to this day. It can be identified as '#4' as well, on Katsudou Shashin's SoundCloud profile.
+
+Title        : Aer - 雨冷え
+Upload date  : Jun 16, 2015
+YT ID        : e3smXfaIHxs
+Track source : https://soundcloud.com/aaer/amabie
+Art source   : https://konachan.com/post/show/192760
+Misc info    : 1) Quoting Squiggl3 in the comments, this track is the original piece '雨冷え' by Acua-piece, who is also known as Mizusato on Soundcloud.
+                  https://acua-piece.bandcamp.com/track/--18
+                  It is currently unclear as to whether Mizusato ever assumed the username 'Aer' on SoundCloud,
+                  though it is worth noting that their SoundCloud profile identifier is 'aaer'.
+               2) The illustration artist is named '冬馬来彩' (Touma Kisa). While the original illustration has been removed from their Pixiv profile,
+                  the Pixiv account of the artist is still intact: https://www.pixiv.net/en/users/3088169
+                  Danbooru provides more information on 冬馬来彩: https://danbooru.donmai.us/artists/108729
+
+Title        : Sungkyung Kim - 그 밤.
+Upload date  : Jun 11, 2015
+YT ID        : GIElOBwYRCo
+Track source : https://soundcloud.com/love-wave-1/aom8fdbdsnhu
+Art source   : https://www.zerochan.net/1863407
+Misc info    : 1) Sungkyung Kim is also known as 'Lovewave' in some circles. '그 밤.' translates to 'The Night'.
+                  The dot behind the video title does not appear to be part of the actual song title.
+               2) The artist of the illustration used is "Yong Kit Lam". According to WayBack Machine, they removed their Pixiv account somewhere between 2016 and 2017.
+                  After some research, it appears that they've quit Pixiv permanently after admitting to accusations of plagiarism.
+                  Yong Kit Lam's apology can be read here: https://www.facebook.com/yongkit.lam.9/posts/1816400871938486
+               
+Title        : Snug Murk - Tranquility
+Upload date  : Jun 9, 2015
+YT ID        : ykg4XvsfLRo
+Track source : https://soundcloud.com/yuzame-label/tranquility
+               https://yuzame-label.bandcamp.com/track/tranquility-album-mix
+Art source   : https://i.pinimg.com/originals/8e/48/05/8e4805d10cf005b12f54b3416cff2299.jpg
+Misc info    : The illustrator of the cover art is '韩一杰' (Han Yi Jie): https://danbooru.donmai.us/artists/102207
+               While the Pixiv profile of the artist, as well as their other social media accounts
+               are still up and running, this particular artwork is somewhat shrouded in mystery. The artwork is missing from Pixiv as well as
+               from hanyijie.lofter.com. Versions available in zerochan, sankakucomplex are not at full resolution (only 1150x704).
+               I managed to find one version of it at 1680x1027 (see art source above), but this was a repost on pinterest and nowhere else.
+               Considering it wasn't captured in Danbooru, I hypothesize that it was never posted to Pixiv. The watermark suggests that the high res version was
+               posted to hanyijie.lofter.com, and later removed for unknown reasons. Sources like anime-pictures.net suggest that the illustration was created
+               in 2012. The only place I have yet to search would be the artist's Weibo profile.
+               If anyone is interested in investigating the source, the following links may be useful to you:
+                - zerochan: https://www.zerochan.net/1275526 (1150x704)
+                - sankakucomplex: https://chan.sankakucomplex.com/post/show/2826884
+                - anime-pictures: https://anime-pictures.net/pictures/view_post/231637?lang=en (1150x704)
+                - HanYiJie's Facebook: https://www.facebook.com/hanyijie91/photos/a.712676545440431/896804603694290/ (1150x704)
+                - pinterest: https://www.pinterest.com.au/pin/843580573924920034/ (1680x1027)
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
 Title        : 
 Upload date  : 
 YT ID        : 
