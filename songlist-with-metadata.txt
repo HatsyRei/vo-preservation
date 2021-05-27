@@ -247,19 +247,24 @@ Misc info    : The illustrator of the cover art is '韩一杰' (Han Yi Jie): htt
                 - HanYiJie's Facebook: https://www.facebook.com/hanyijie91/photos/a.712676545440431/896804603694290/ (1150x704)
                 - pinterest: https://www.pinterest.com.au/pin/843580573924920034/ (1680x1027)
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Masafumi Komatsu - Reflection
+Upload date  : May 6, 2015
+YT ID        : e6qDRuOgsN8
+Track source : https://www.youtube.com/watch?v=Q1hRQj_kP7k
+               https://soundcloud.com/masafumikomatsu/reflection
+Art source   : https://www.pixiv.net/en/artworks/45463856
+Misc info    : Voiced Out commented on this upload, crediting Masafumi Komatsu and his channel: https://www.youtube.com/user/nekomatsu
+               This is the second time Voiced Out uploaded this track, the first time being a shorter version of it in Jun 5, 2014.
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Adultchild - Sigh
+Upload date  : Apr 26, 2015
+YT ID        : 8--dnB0BRF8
+Track source : https://soundcloud.com/adultchild/sigh-111213
+Art source   : https://danbooru.donmai.us/posts/1024480?q=nomiya_%28no_38%29
+Misc info    : By the GODS. This was one tough reverse lookup for the original source of illustration. Yandex, Google and SauceNAO gave no meaningful results.
+               I tried tuning down the image saturation, reorienting, etc to no avail. Spent hours going through tons of illustrations with the 'teddy bear' tag in them.
+               Heart skipped a beat when it showed up on sankakucomplex. The artist is 'Nomiya', 'nomiya (no 38)'. Original source removed from Pixiv,
+               but artist Pixiv profile still intact: https://www.pixiv.net/en/users/2168501 
 
 Title        : 
 Upload date  : 
