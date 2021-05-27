@@ -300,12 +300,15 @@ Art source   : https://konachan.com/post/show/112657
 Misc info    : Another missing illustrator Pixiv account, id 2790485. Based on information in https://ytyr.tumblr.com/post/7926962631 , the artist should be named
                'semr' prior to the removal of their Pixiv account. Can't seem to find this artist in danbooru... and the name 'semr' does not appear anywhere...
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Pollypraha - Trope
+Upload date  : Apr 17, 2015
+YT ID        : eFbzKMLfnVw
+Track source : https://soundcloud.com/pollypraha/trope3
+Art source   : https://www.pixiv.net/en/artworks/36324453
+Misc info    : 1) The composer, Takeyuki Hakozaki / Pollypraha commented on Voiced Out's video, thanking everyone. 
+                  Voiced Out responded: "Thank you for the music. It is greatly appreciated."
+                  Voiced Out also responded to Shamim H who was asking for image source, providing: https://i.imgur.com/foLjN2T.jpg
+               2) The illustration used is also cover art for a Vocaloid video: https://www.nicovideo.jp/watch/sm21083479
 
 Title        : 
 Upload date  : 
