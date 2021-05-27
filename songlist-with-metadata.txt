@@ -42,3 +42,57 @@ YT ID        : wZoa5uoPt5I
 Track source : https://soundcloud.com/yuki-murata/at-3-oclock
 Art source   : https://www.pixiv.net/en/artworks/57205174
 Misc info    : -
+
+Title        : Kana Wakareno - 空気椅子
+Upload date  : Jun 30, 2016
+YT ID        : O0yAKDj_zy8
+Track source : https://soundcloud.com/wakarenokana/2013-demo-2
+               https://kanawakareno.bandcamp.com/track/--2
+Art source   : https://www.pixiv.net/en/artworks/47213538
+Misc info    : -
+
+Title        : Aso - Ultra Violet
+Upload date  : Jun 17, 2016
+YT ID        : i9nxk834gaE
+Track source : https://soundcloud.com/aricogle/aso-ultra-violet
+Art source   : https://www.pixiv.net/en/artworks/55325876
+Misc info    : Fun fact - The illustration is also used as a cover of a novel! (また、同じ夢を見ていた)
+               https://www.amazon.com/That-Same-Dream-Again-Novel/dp/164505439X/
+               
+Title        : Tomotsugu - Filament
+Upload date  : Feb 19, 2016
+YT ID        : 269pzsC1-qo
+Track source : https://soundcloud.com/tomotsugu/filament
+               https://tomotsugu.bandcamp.com/track/track13-filament
+Art source   : https://www.zerochan.net/523592
+Misc info    : The artist of the illustration, according to zerochan, is 'Shiira'. 
+               Based on the art featured in zerochan, I was able to find イワノフ on Pixiv.
+               https://www.pixiv.net/en/users/9116/artworks
+               Currently assuming they've renamed themselves in the past, and remove some art from their Pixiv profile.
+               Voiced Out used Shiira's artwork in multiple videos.
+               
+Title        : Suzuo - Heavenly
+Upload date  : Feb 17, 2016
+YT ID        : KUSWLvJMgyE
+Track source : https://soundcloud.com/impintheforest/heavenly
+Art source   : https://www.pixiv.net/en/artworks/51432235
+Misc info    : Voiced Out included a SoundCloud link to the song artist, in the video description.
+
+Title        : Eurasia. - Rust
+Upload date  : Nov 24, 2015
+YT ID        : Jio_0vQCAZU
+Track source : https://mimirecords.bandcamp.com/album/rast
+               https://archive.org/details/mi153Eurasia.-Rast
+Art source   : https://www.pixiv.net/en/artworks/30799804
+Misc info    : 1) The artist is 'Eurasia.' (including the dot behind the name) https://www.last.fm/music/Eurasia.
+                  Also known as 'Mósslonnrós'. https://www.last.fm/music/M%C3%B3sslonnr%C3%B3s
+                  See: https://mamrecords.com/download/mam123-eurasia-rast/
+               2) Illustration artist is 'Shiira' / 'イワノフ'.
+               
+Title        : Aso - In Depth
+Upload date  : Nov 18, 2015
+YT ID        : QU110aPSgfo
+Track source : https://soundcloud.com/chillout21/in-depth-aso
+Art source   : https://www.pixiv.net/en/artworks/53229723
+Misc info    : This is Aso's SoundCloud profile: https://soundcloud.com/aricogle
+               However, the original source appears to have been removed from there.
