@@ -233,8 +233,8 @@ Track source : https://soundcloud.com/yuzame-label/tranquility
                https://yuzame-label.bandcamp.com/track/tranquility-album-mix
 Art source   : https://i.pinimg.com/originals/8e/48/05/8e4805d10cf005b12f54b3416cff2299.jpg
 Misc info    : The illustrator of the cover art is '韩一杰' (Han Yi Jie): https://danbooru.donmai.us/artists/102207
-               While the Pixiv profile of the artist, as well as their other social media accounts
-               are still up and running, this particular artwork is somewhat shrouded in mystery. The artwork is missing from Pixiv as well as
+               While the Pixiv profile of the artist, as well as their other social media accounts are still up and running, 
+               this particular artwork is somewhat shrouded in mystery. The artwork is missing from Pixiv as well as
                from hanyijie.lofter.com. Versions available in zerochan, sankakucomplex are not at full resolution (only 1150x704).
                I managed to find one version of it at 1680x1027 (see art source above), but this was a repost on pinterest and nowhere else.
                Considering it wasn't captured in Danbooru, I hypothesize that it was never posted to Pixiv. The watermark suggests that the high res version was
@@ -266,19 +266,24 @@ Misc info    : By the GODS. This was one tough reverse lookup for the original s
                Heart skipped a beat when it showed up on sankakucomplex. The artist is 'Nomiya', 'nomiya (no 38)'. Original source removed from Pixiv,
                but artist Pixiv profile still intact: https://www.pixiv.net/en/users/2168501 
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Pei - Light Purple
+Upload date  : Apr 26, 2015
+YT ID        : sv3eRmb195Y
+Track source : https://soundcloud.com/soezoe_pei/
+Art source   : https://www.pixiv.net/en/artworks/26721423
+Misc info    : The composer of this soundtrack is 'Pei', also known as 'soezoe_pei'. While still being active, it appears that 'Light Purple' is no longer available
+               in their SoundCloud profile. A duplicate of 'Pei - Light Purple' is available here: https://soundcloud.com/yoserro/pei-light-purple
+               This upload by Serro seems to be a repost of Voiced Out's upload. 
+               Unfortunately, no other sources have been found to link soezoe_pei to any track titled 'Light Purple'.
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Lutris - Aerial Distortion
+Upload date  : Apr 24, 2015
+YT ID        : pDwoEfYaWcs
+Track source : https://soundcloud.com/lutris/aerial-distortion
+               https://lutris.bandcamp.com/track/aerial-distortion
+Art source   : https://danbooru.donmai.us/posts/1499934?q=aya_%28star%29
+Misc info    : Illustrator is known as 'aya (star)' on danbooru, gelbooru, etc. Looking at Pixiv's navirank history though, the artist was known as 'e h l'.
+               Their Pixiv account no longer exists. https://danbooru.donmai.us/artists/75161
 
 Title        : 
 Upload date  : 
