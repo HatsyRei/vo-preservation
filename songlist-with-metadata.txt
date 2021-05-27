@@ -308,14 +308,16 @@ Art source   : https://www.pixiv.net/en/artworks/36324453
 Misc info    : 1) The composer, Takeyuki Hakozaki / Pollypraha commented on Voiced Out's video, thanking everyone. 
                   Voiced Out responded: "Thank you for the music. It is greatly appreciated."
                   Voiced Out also responded to Shamim H who was asking for image source, providing: https://i.imgur.com/foLjN2T.jpg
+                  In fact, the description of https://soundcloud.com/pollypraha/trope3 was updated to link to Voiced Out's video. 
                2) The illustration used is also cover art for a Vocaloid video: https://www.nicovideo.jp/watch/sm21083479
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Marihiko Hara - Dream Bird
+Upload date  : Apr 8, 2015
+YT ID        : hL8uTTMZFa0
+Track source : https://soundcloud.com/mu-nest/mnc014_dreambird
+               https://www.youtube.com/watch?v=icDkrGVRFrs
+Art source   : https://www.deviantart.com/sylar113/art/landscape-2-386324650
+Misc info    : -
 
 Title        : 
 Upload date  : 
