@@ -319,47 +319,57 @@ Track source : https://soundcloud.com/mu-nest/mnc014_dreambird
 Art source   : https://www.deviantart.com/sylar113/art/landscape-2-386324650
 Misc info    : -
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Ekená - Sad Smile
+Upload date  : Apr 8, 2015
+YT ID        : t0GCZVIwmqM
+Track source : https://soundcloud.com/drifting-tides/sad-smile
+Art source   : https://www.pixiv.net/en/artworks/44692135
+Misc info    : -
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Flica - Wasteland
+Upload date  : Apr 1, 2015
+YT ID        : 9xokIPFFcUo
+Track source : https://soundcloud.com/flicaofficial/wasteland
+Art source   : https://www.pixiv.net/en/artworks/34512986
+Misc info    : 1) Flica, also known as Euseng Seto (https://www.youtube.com/channel/UCYc5qBDa_0lzu-U46yu8nqg) commented on this upload around Jan 2021,
+                  stating: "Hello everone, I'm flica (euseng seto) seeing all the comment really warm my heart, I'm so glad that my music brings 
+                  something to all of you! Appreciate everyone listen to my music! do check out the album on spotify & other streaming platform: 
+                  https://open.spotify.com/album/2AtrtVtYcpjDcgIZcSsRCL?si=1xw8bzfrQQeADglRvPzJfw "
+               2) The illustration art chosen for this soundtrack is another popular work of Loundraw, one which has been used as Pixiv's login page cover art!
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Shintoe - Good Morning
+Upload date  : Jan 23, 2015
+YT ID        : yjv-M4paU4w
+Track source : https://soundcloud.com/codoku/good-morning
+Art source   : https://www.deviantart.com/megatruh/art/golden-fields-484322121
+Misc info    : The illustration artist, 'Megatruh' : https://danbooru.donmai.us/posts?tags=megatruh
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Affable Noise - Citrus Tsutai
+Upload date  : Dec 16, 2014
+YT ID        : d028xVbzH3Q
+Track source : https://soundcloud.com/affable_noise/citrus-tsutai
+Art source   : https://www.pixiv.net/en/artworks/38763382
+Misc info    : affable noise (https://www.youtube.com/channel/UCp33PqiipSVbubkr8GW9xwg) commented on the upload: "Me!",
+               to which Voiced Out replied: "Thank you for the music. Greatly appreciated."
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : IAMNOBODI - Missing Her
+Upload date  : Dec 15, 2014
+YT ID        : EMMfWjekglA
+Track source : https://iamnobodi.bandcamp.com/track/missing-her-interlude
+               https://soundcloud.com/IAMNOBODI
+Art source   : https://hanyijie.lofter.com/post/d7b61_399983
+Misc info    : 1) Voiced Out commented on this upload, stating: "Probably my favorite producer."
+               2) Illustration is another work of HanYiJie. See misc info in entry "Snug Murk - Tranquility".
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Cancel - When He's Gone
+Upload date  : Dec 15, 2014
+YT ID        : zycaypbVKEc
+Track source : https://www.amazon.com/When-Hes-Gone/dp/B0721NG4ZV
+               https://open.spotify.com/album/4ovg7djOtg9qGK1dWACJYR?highlight=spotify:track:7pU3TgrucEJxd8FqOprIk2
+Art source   : https://danbooru.donmai.us/posts/1404542
+Misc info    : The illustrator '反骨MAX' seems to once have been known as 'ladic'. A great number of their artwork has been removed from Pixiv for unknown reasons.
+               In their Twitter profile, a message was posted to clarify the name in use: " 反骨max is not a name of individual artist. This temporary name was used
+               by VDZR and XRM on their Doujin art. " 
 
 Title        : 
 Upload date  : 
