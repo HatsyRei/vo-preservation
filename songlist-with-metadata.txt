@@ -371,26 +371,29 @@ Misc info    : The illustrator '反骨MAX' seems to once have been known as 'lad
                In their Twitter profile, a message was posted to clarify the name in use: " 反骨max is not a name of individual artist. This temporary name was used
                by VDZR and XRM on their Doujin art. " 
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Shelling - Misty Cats
+Upload date  : Dec 14, 2014
+YT ID        : cHWb39t09SU
+Track source : https://chiheihatakeyama.bandcamp.com/track/misty-cats
+Art source   : https://www.deviantart.com/sylar113/art/landscape-32-464149943
+Misc info    : Illustrator 'Sylar113' appears to post their art solely on Deviantart.
+               Worth noting is that Sylar113 explicitly mentions in their profile: "You can use my pictures for non-commercial purposes without my permission".
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Sango - Saw You Yesterday
+Upload date  : Dec 5, 2014
+YT ID        : N65DS7tKoR4
+Track source : https://sango.bandcamp.com/track/saw-you-yesterday
+Art source   : https://ennuishao.artstation.com/projects/lVYRo
+Misc info    : The illustrator is named 'Yinan Shao'. They post their art on ArtStation, and does not appear to be recorded by Danbooru or other illuratration DBs.
+               Check out more of their work here: https://www.artstation.com/ennuishao
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Chims - A Thousands Miles Later
+Upload date  : Oct 7, 2014
+YT ID        : R1DG5t_mIJA
+Track source : https://soundcloud.com/chimsprod/a-thousand-miles-later
+Art source   : https://www.deviantart.com/sylar113/art/landscape-22-437816325
+Misc info    : Another illustration by Sylar113. It was surprisingly hard to reverse lookup this artwork, as it has been reposted everywhere.
+               It was this Reddit thread which made clear the original source: https://www.reddit.com/r/Moescape/comments/299dic/sunshine_on_a_rainy_day_original/
 
 Title        : 
 Upload date  : 
