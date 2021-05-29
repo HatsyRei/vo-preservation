@@ -438,12 +438,16 @@ Misc info    : According to https://buglifewave.wordpress.com/2014/07/10/line-cr
                 - http://www.9tensu.com/2014/12/wind-in-her-hair.html
                 - https://www.facebook.com/Calmlamp/posts/665864683439801
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Kai Takahashi - Snowy Afternoon
+Upload date  : Jul 7, 2014
+YT ID        : X0hz95eOUFg
+Track source : https://soundcloud.com/kaitakahashi
+               https://www.youtube.com/channel/UC-ZI1vN9kitBfszW4e9Rvjg
+Art source   : https://www.pixiv.net/en/artworks/9456617
+Misc info    : 1) 'Snowy Afternoon' is believed to have been on Kai Takahashi's SoundCloud prior to Voiced Out's upload, though now it has been removed.
+                  That said, Kai Takahashi himself is still quite active. https://kaitakahashi.tumblr.com/
+               2) The illustrator is named 'Sarnath' according to Danbooru. They also assume other names, the latest one being '幻電放映'.
+                  More info in Danbooru: https://danbooru.donmai.us/artists/49152
 
 Title        : 
 Upload date  : 
