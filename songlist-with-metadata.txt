@@ -403,12 +403,16 @@ Track source : https://chouchou.bandcamp.com/track/childrens-shrine-2
 Art source   : https://www.pixiv.net/en/artworks/44919992
 Misc info    : More information on Chouchou: https://www.generasia.com/wiki/Chouchou
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Ryosuke Miyata - In My Old School
+Upload date  : Aug 3, 2014
+YT ID        : WrQ5OehdlEw
+Track source : https://soundcloud.com/ryosukemiyata/in-my-old-school
+Art source   : https://danbooru.donmai.us/posts/1372490
+Misc info    : The illustrator is known as 'Susie-481' or 'susie_2525'. Active around 2013 and 2014. known for their artwork among the Vocaloid community.
+               The illustration used for this upload, for instance, is also a cover art for 'Dear My F...' original song by ルーファ.
+               https://www.nicovideo.jp/watch/sm20156990
+               According to Twitter and WayBack Machine, Susie's trail went cold after around mid 2014, their Pixiv, Piapro account and Twitter shut down for
+               unknown reasons. To this date, only their Tumblr profile remains, though there isn't much left: https://susie-481.tumblr.com/
 
 Title        : 
 Upload date  : 
