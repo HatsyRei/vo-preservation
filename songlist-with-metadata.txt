@@ -449,12 +449,13 @@ Misc info    : 1) 'Snowy Afternoon' is believed to have been on Kai Takahashi's 
                2) The illustrator is named 'Sarnath' according to Danbooru. They also assume other names, the latest one being '幻電放映'.
                   More info in Danbooru: https://danbooru.donmai.us/artists/49152
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Ghostlight - False Dream
+Upload date  : Jul 5, 2014
+YT ID        : RXQzBMx5jf0
+Track source : https://ghostlightjp.bandcamp.com/track/false-dream
+               https://soundcloud.com/ghostlightjp/false-dream
+Art source   : https://www.pixiv.net/en/artworks/4879900
+Misc info    : Illustrator: 'あかかった' (akakatta). They appear to have stopped uploading on Pixiv since 2012, but remain active on Twitter until 2018.
 
 Title        : 
 Upload date  : 
