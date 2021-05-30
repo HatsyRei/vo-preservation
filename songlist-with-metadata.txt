@@ -457,6 +457,68 @@ Track source : https://ghostlightjp.bandcamp.com/track/false-dream
 Art source   : https://www.pixiv.net/en/artworks/4879900
 Misc info    : Illustrator: 'あかかった' (akakatta). They appear to have stopped uploading on Pixiv since 2012, but remain active on Twitter until 2018.
 
+Title        : Tomoya Naka - Moonlight Arpeggio
+Upload date  : Jul 3, 2014
+YT ID        : Y1-8_OW39bs
+Track source : https://mizukagerecords.bandcamp.com/track/moonlight-arpeggio
+               https://soundcloud.com/introducing/tomoya-naka-moonlight-arpeggio
+               https://soundcloud.com/tomoyanaka
+Art source   : https://www.zerochan.net/1736324
+Misc info    : 1) Tomoya Naka reposted introducing!'s upload of his Moonlight Arpeggio on SoundCloud.
+                  Tomoya Naka also has a YouTube channel: https://www.youtube.com/channel/UCpUzgHSDpsV6nCh2SrM8fZw
+               2) The illustrator is no longer on Pixiv. According to SauceNAO, they are known as 'TK' by the Pixiv ID 1516954.
+                  However, zerochan links this artist to Pixiv ID 10446410 instead, and according to WayBack Machine, the artist is known as 'HARa'.
+                  Unfortunately, danbooru did not capture information regarding this artist.
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
+Title        : 
+Upload date  : 
+YT ID        : 
+Track source : 
+Art source   : 
+Misc info    : 
+
 Title        : 
 Upload date  : 
 YT ID        : 
