@@ -470,12 +470,21 @@ Misc info    : 1) Tomoya Naka reposted introducing!'s upload of his Moonlight Ar
                   However, zerochan links this artist to Pixiv ID 10446410 instead, and according to WayBack Machine, the artist is known as 'HARa'.
                   Unfortunately, danbooru did not capture information regarding this artist.
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : m.e. - Artificial Flowers Grow
+Upload date  : Jul 2, 2014
+YT ID        : 0-uBaHgqWPw
+Track source : http://totokokolabel.com/releases_006
+               https://soundcloud.com/n357w/artificial-flowers-grow
+Art source   : https://e-shuushuu.net/image/650335/
+Misc info    : The illustrator is known as '松本もちもち' (Matsumoto Mochimochi). Both their Pixiv (ID: 9691799) and Twitter (mtmt20170625, matumotomoti)
+               appears to no longer be intact. They appear to have worked on Vocaloid art, with their work featured in some VocaP's work, e.g.
+                - https://vocaloid.fandom.com/wiki/Plotoplan
+                - https://vocaloid.fandom.com/wiki/%E3%83%97%E3%83%AD%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3_(Proto_Disco)
+               However, there does not seem to be any single repository which stores all of their artwork.
+               See:
+                - e-shuushuu: https://e-shuushuu.net/search/results/?tags=139323
+                - zerochan: https://www.zerochan.net/Pixiv+Id+9691799
+                - konachan: https://konachan.com/post?tags=matumotomoti
 
 Title        : 
 Upload date  : 
