@@ -526,12 +526,13 @@ Art source   : https://www.pixiv.net/en/artworks/33202674
 Misc info    : According to Discogs, this track was released in 2002 in the album "Koko Karano Uta". It is available on Mzkg as Mzkg-014. 
                Apparently this track is also known as "Sakura Dream" in album "Tim" released in 2014.
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Masafumi Komatsu - Reflection
+Upload date  : Jun 5, 2014
+YT ID        : ghFBX4F4HdM
+Track source : https://www.youtube.com/watch?v=Q1hRQj_kP7k
+               https://soundcloud.com/masafumikomatsu/reflection
+Art source   : https://www.pixiv.net/en/artworks/40102831
+Misc info    : This is a shorter version of 'Reflection'. The full version is uploaded by Voiced Out on May 6, 2015.
 
 Title        : 
 Upload date  : 
