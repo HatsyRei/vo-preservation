@@ -534,12 +534,14 @@ Track source : https://www.youtube.com/watch?v=Q1hRQj_kP7k
 Art source   : https://www.pixiv.net/en/artworks/40102831
 Misc info    : This is a shorter version of 'Reflection'. The full version is uploaded by Voiced Out on May 6, 2015.
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Effe - Legion
+Upload date  : May 29, 2014
+YT ID        : L_Gn12XeABo
+Track source : http://bunkai-kei.com/release/bk-k_040/
+               https://soundcloud.com/effexxx
+Art source   : https://www.zerochan.net/1670651
+Misc info    : The artist is known as Ibuki Satsuki (伊吹五月). It is not entirely clear where they post their art, but zerochan links to 
+               Ibuki Satsuki's weibo profile. https://www.weibo.com/ibukisatsuki
 
 Title        : 
 Upload date  : 
