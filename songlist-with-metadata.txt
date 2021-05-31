@@ -486,12 +486,17 @@ Misc info    : The illustrator is known as '松本もちもち' (Matsumoto Mochi
                 - zerochan: https://www.zerochan.net/Pixiv+Id+9691799
                 - konachan: https://konachan.com/post?tags=matumotomoti
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Tomoki Takeuchi - Plein Soleil
+Upload date  : Jul 1, 2014
+YT ID        : zqTDZbvfrP0
+Track source : https://mizukagerecords.bandcamp.com/track/plein-soleil
+               https://soundcloud.com/tomokitakeuchi-1
+Art source   : https://www.pixiv.net/en/artworks/44403643
+Misc info    : 1) Tomoki Takeuchi's journey is pretty interesting. They were a professional music composer with over nine years of work experience, 
+                  before changing careers to become an engineer. Read more about Tomoki Takeuchi:
+                  https://tomokitointhe6ix.github.io/
+               2) Voiced Out responded to a comment asking for illustration source. They provided an imgur link: https://imgur.com/LKKGwDy
+                  with the following reply: "Thanks for giving this song a listen.".
 
 Title        : 
 Upload date  : 
