@@ -597,7 +597,7 @@ Title        :
 Upload date  : 
 YT ID        : 
 Track source : 
-Art source   : 
+Art source   : https://www.pixiv.net/en/artworks/12596679
 Misc info    : 
 
 Title        : 
