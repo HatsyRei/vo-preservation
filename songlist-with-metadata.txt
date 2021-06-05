@@ -567,22 +567,31 @@ YT ID        : d4Botpr5bmQ
 Track source : https://soundcloud.com/bunkai-kei-records/sizuku-feat-fuyuru0
                https://bunkai-keirecords.bandcamp.com/track/sizuku-feat-smany
 Art source   : https://www.pixiv.net/en/artworks/4191400
-Misc info    : The illustrator is known as 'ao', also 'aoharimero', 'aokarimero', 'Amairo Himegimi'.
-               https://danbooru.donmai.us/artists/29484
+Misc info    : 1) The illustrator is known as 'ao', also 'aoharimero', 'aokarimero', 'Amairo Himegimi'.
+                  https://danbooru.donmai.us/artists/29484
+               2) In the upload description, the credits listed in the disclaimer appears different from the video title itself,
+                  being 'Fuyuru0 - Sizuku ft. Smany'.
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Smany - ・A・
+Upload date  : Apr 15, 2014
+YT ID        : OwsboHnKSys
+Track source : https://bunkai-keirecords.bandcamp.com/album/bk-k-038-komoriuta
+               https://soundcloud.com/smany
+Art source   : https://www.pixiv.net/en/artworks/41985591
+Misc info    : Illustrator ('Bob') note: "My current activity is mainly on Twitter."  https://twitter.com/biyonbiyon
+               See more: https://danbooru.donmai.us/artists/11340
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Aureole - Dark Adaption
+Upload date  : Nov 22, 2013
+YT ID        : vP_QqcGEvw4
+Track source : https://www.discogs.com/Aureole-Reincarnation/release/12921252
+               https://soundcloud.com/aureolejp/aureole-reincarnation-digest
+               https://www.youtube.com/watch?v=9UMOdaNkW3A
+Art source   : https://www.pixiv.net/en/artworks/16759685
+Misc info    : 1) The original track source could not be identified. Various sites which sell the album lists Dark Adaptation as 4 minutes and 30 seconds long,
+                  this tallies with what Voiced Out uploaded. The max length of free samples other than Voiced Out's video is only 4 minutes and 9 seconds
+                  long. It is unclear how Voiced Out obtained the uncut version of this track. An educated guess would be that it was at some point available on
+                  SoundCloud for free.
 
 Title        : 
 Upload date  : 
