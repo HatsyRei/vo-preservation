@@ -593,12 +593,13 @@ Misc info    : 1) The original track source could not be identified. Various sit
                   long. It is unclear how Voiced Out obtained the uncut version of this track. An educated guess would be that it was at some point available on
                   SoundCloud for free.
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
+Title        : Chouchou - Lunaria
+Upload date  : Nov 8, 2013
+YT ID        : a58XnLoUgSY
+Track source : https://chouchou.bandcamp.com/track/lunaria-instrumental
+               https://www.youtube.com/watch?v=jW4txpRbDKs
 Art source   : https://www.pixiv.net/en/artworks/12596679
-Misc info    : 
+Misc info    : Instrumental version of LUNARIA, Another one of Chouchou's amazing work.
 
 Title        : 
 Upload date  : 
