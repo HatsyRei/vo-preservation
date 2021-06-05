@@ -540,8 +540,35 @@ YT ID        : L_Gn12XeABo
 Track source : http://bunkai-kei.com/release/bk-k_040/
                https://soundcloud.com/effexxx
 Art source   : https://www.zerochan.net/1670651
-Misc info    : The artist is known as Ibuki Satsuki (伊吹五月). It is not entirely clear where they post their art, but zerochan links to 
+Misc info    : The illustrator is known as Ibuki Satsuki (伊吹五月). It is not entirely clear where they post their art, but zerochan links to 
                Ibuki Satsuki's weibo profile. https://www.weibo.com/ibukisatsuki
+
+Title        : Sputnik2017 - Towa
+Upload date  : May 16, 2014
+YT ID        : 2dkoaSlPrZM
+Track source : https://soundcloud.com/tanukineirirecords/tnr-020-sputnik2017-towa-from
+               https://soundcloud.com/sputnik2017
+Art source   : https://www.zerochan.net/1452742
+Misc info    : Another work by 'くろのくろ' (Kuro no Kuro) / 'krnkr721'.
+               Original art on Pixiv has been removed, but their Pixiv profile is still intact.
+               https://www.pixiv.net/en/users/10501094
+
+Title        : Effe - Diastereomer
+Upload date  : May 16, 2014
+YT ID        : wZsu2AJQi04
+Track source : http://bunkai-kei.com/release/bk-k_040/
+               https://soundcloud.com/effexxx
+Art source   : https://www.pixiv.net/en/artworks/41075075
+Misc info    : -
+
+Title        : Fuyuru0 - Sizuku
+Upload date  : Apr 16, 2014
+YT ID        : d4Botpr5bmQ
+Track source : https://soundcloud.com/bunkai-kei-records/sizuku-feat-fuyuru0
+               https://bunkai-keirecords.bandcamp.com/track/sizuku-feat-smany
+Art source   : https://www.pixiv.net/en/artworks/4191400
+Misc info    : The illustrator is known as 'ao', also 'aoharimero', 'aokarimero', 'Amairo Himegimi'.
+               https://danbooru.donmai.us/artists/29484
 
 Title        : 
 Upload date  : 
