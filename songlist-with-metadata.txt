@@ -616,12 +616,16 @@ Misc info    : 1) Inspira commented on this upload:
                   - http://www.ryoondo-tea.jp/discography/des017_cohcox_e.html
                   - https://www.discogs.com/artist/436987-Heprcam
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
+Title        : Sebu Hiroko - 世武裕子
+Upload date  : Apr 17, 2013
+YT ID        : 6-zf9PzuByk
+Track source : https://www.nicovideo.jp/watch/sm18310030
+               https://www.youtube.com/watch?v=grP0jrlu4EY
+Art source   : https://www.zerochan.net/561518
+Misc info    : 1) The actual title of this track is "泳ぐ(Oyogu)" or "swim".
+               2) The illustrator was known by the name "夢野 みかん (Yumeno Mikan)" or "YUMENO", and later "貧底 メガネ (Binzoko Megane)",
+                  "さんインチ (San-Inch or San'inchi)". Unfortunately, at time of writing, virtually all of the online profiles which can be associated to this
+                  artist has been deleted. See more: https://danbooru.donmai.us/artists/14427
 
 Title        : 
 Upload date  : 
