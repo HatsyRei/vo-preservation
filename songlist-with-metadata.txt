@@ -371,6 +371,15 @@ Misc info    : The illustrator '反骨MAX' seems to once have been known as 'lad
                In their Twitter profile, a message was posted to clarify the name in use: " 反骨max is not a name of individual artist. This temporary name was used
                by VDZR and XRM on their Doujin art. " 
 
+Title        : Swiff D - Ripe Rightousness
+Upload date  : <MISSING DATA>
+YT ID        : <MISSING DATA>
+Track source : https://soundcloud.com/swiff-d/04-ripe-righetousness
+Art source   : https://www.artstation.com/shuxingli
+               https://art.alphacoders.com/arts/view/88823
+Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
+               2) Illustrator of the art being used is known as "Li Shuxing". Unfortunately, this specific artwork is no longer present in their Artstation profile.
+
 Title        : Shelling - Misty Cats
 Upload date  : Dec 14, 2014
 YT ID        : cHWb39t09SU
@@ -560,6 +569,17 @@ Track source : http://bunkai-kei.com/release/bk-k_040/
                https://soundcloud.com/effexxx
 Art source   : https://www.pixiv.net/en/artworks/41075075
 Misc info    : -
+
+Title        : Masato Kouda - Feene's Theme
+Upload date  : <MISSING DATA>
+YT ID        : <MISSING DATA>
+Track source : https://vgmdb.net/album/54255
+               https://soundcloud.com/boris-bajulaz/masato-kouda-feenes-theme
+               https://www.youtube.com/watch?v=V1m2abRjo4g
+Art source   : https://conception.fandom.com/wiki/Feene_Glass/Gallery?file=Feene_Kiss_Png.png
+Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
+               2) This track is actually titled "In the Sky of the Native Land - Theme of Feene". It is one of the OST of "Conception II: Children of The Seven Stars".
+                  https://store.steampowered.com/app/458730/Conception_II_Children_of_the_Seven_Stars/
 
 Title        : Fuyuru0 - Sizuku
 Upload date  : Apr 16, 2014
