@@ -844,12 +844,12 @@ Track source :
 Art source   : 
 Misc info    : 
 
-Title        : Arafura - Lost Among The Lost
+Title        : Arafúra - Lost Among The Lost
 Upload date  : <DATA MISSING>
 YT ID        : <DATA MISSING>
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
 
 
 Title        : Woodblue - Hopeless Love
@@ -884,7 +884,7 @@ Title        : Sequence Pulse - I Am Your Garden
 Upload date  : May 17, 2012
 YT ID        : TUhVOVA5Koo
 Track source : 
-Art source   : 
+Art source   : https://www.pixiv.net/en/artworks/24253096
 Misc info    : 
 
 Title        : Radicalfashion - Mask
@@ -1235,79 +1235,89 @@ Track source :
 Art source   : https://www.pixiv.net/en/artworks/10338458
 Misc info    : 
 
-Title        : 
-Upload date  : 
-YT ID        : 
+Title        : Sabi - Mote Diver
+Upload date  : Sep 9, 2011
+YT ID        : 9W153qq1v-4
 Track source : 
 Art source   : 
 Misc info    : 
 
-Title        : 
-Upload date  : 
-YT ID        : 
+Title        : Lullatone - Slow Waltz
+Upload date  : Sep 9, 2011
+YT ID        : fvs0VqWGbO4
+Track source : 
+Art source   : https://www.pixiv.net/en/artworks/5934538
+               https://safebooru.donmai.us/posts/957192
+Misc info    : 
+
+Title        : Kiichi - Riri
+Upload date  : Sep 4, 2011
+YT ID        : 1nkoKyIoFig
+Track source : 
+Art source   : https://www.pixiv.net/en/artworks/10897112
+Misc info    : 
+
+Title        : Kiichi - Sunflower
+Upload date  : Sep 4, 2011
+YT ID        : auvUMaD4AzY
+Track source : 
+Art source   : https://www.pixiv.net/en/artworks/865488
+Misc info    : 
+
+Title        : Blazo - Little Piano
+Upload date  : Sep 2, 2011
+YT ID        : DlTc1CtGIGs
+Track source : 
+Art source   : https://www.pixiv.net/en/artworks/21347452
+Misc info    : 
+
+Title        : Kuroisoul - To Shizuka
+Upload date  : <DATA MISSING>
+YT ID        : <DATA MISSING>
+Track source : 
+Art source   : https://wall.alphacoders.com/big.php?i=51882
+Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
+               2) Illustrator of cover art is unknown. Illustration source is unclear.
+
+Title        : My Dead Girlfriend - Kinoshita Fuyou
+Upload date  : Aug 26, 2011
+YT ID        : 0PoHuTPnwSI
 Track source : 
 Art source   : 
 Misc info    : 
 
-Title        : 
-Upload date  : 
-YT ID        : 
+Title        : YuuyuP - Mirai Memori
+Upload date  : Aug 21, 2011
+YT ID        : CfBWzxp9fuY
+Track source : https://vocadb.net/Al/724
+Art source   : 
+Misc info    : 1) This track is actually known as ミラーメモリー (Mirror Memory), from the Vocaloid album 虹色の花 (Nijiiro no Hana) by ゆうゆ (Yuuyu).
+                  Unfortunately, there aren't any other online sources to listen to this song. 
+
+Title        : Trico - Happy Daily Life
+Upload date  : Aug 16, 2011
+YT ID        : 0_mJcDy5wbU
 Track source : 
 Art source   : 
 Misc info    : 
 
-Title        : 
-Upload date  : 
-YT ID        : 
+Title        : ostooandell - Hero's Hero
+Upload date  : Aug 15, 2011
+YT ID        : Gcxc9zNLsFo
 Track source : 
 Art source   : 
 Misc info    : 
 
-Title        : 
-Upload date  : 
-YT ID        : 
+Title        : Miyauchi Yuri - Ronoe
+Upload date  : Aug 15, 2011
+YT ID        : PYhrx39TRqo
 Track source : 
 Art source   : 
 Misc info    : 
 
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
-
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
-
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
-
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
-
-Title        : 
-Upload date  : 
-YT ID        : 
-Track source : 
-Art source   : 
-Misc info    : 
-
-Title        : 
-Upload date  : 
-YT ID        : 
+Title        : Matsuda Mitsuyoshi - Evening Melody
+Upload date  : Aug 9, 2011
+YT ID        : kmXW4qMdweM
 Track source : 
 Art source   : 
 Misc info    : 
