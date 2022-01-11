@@ -1304,9 +1304,11 @@ Misc info    :
 Title        : ostooandell - Hero's Hero
 Upload date  : Aug 15, 2011
 YT ID        : Gcxc9zNLsFo
-Track source : 
-Art source   : 
-Misc info    : 
+Track source : https://music.apple.com/ie/album/music/286247903
+               https://mora.jp/package/43000011/4519552103092/
+               https://soundcloud.com/space-beans/ostooandell-heros-hero
+Art source   : https://www.pixiv.net/en/artworks/13457754
+Misc info    : Actual title of the song is "Hero's Heroes".
 
 Title        : Miyauchi Yuri - Ronoe
 Upload date  : Aug 15, 2011
