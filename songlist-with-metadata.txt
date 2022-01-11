@@ -1327,9 +1327,11 @@ Misc info    :
 Title        : U-ske - Next Step
 Upload date  : <DATA MISSING>
 YT ID        : <DATA MISSING>
-Track source : 
-Art source   : 
+Track source : https://vocadb.net/S/5744
+               https://soundcloud.com/space-beans/u-ske-next-step
+Art source   : https://www.zerochan.net/509519
 Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
+               2) Illustrator is supposedly named "Ly-chee". Pixiv ID: 1064724. Unfortunately, their profile and artwork no longer exists on Pixiv.
 
 Title        : Muxu - People Running Away
 Upload date  : <DATA MISSING>
