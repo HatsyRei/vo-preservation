@@ -1275,10 +1275,15 @@ Misc info    :
 Title        : Kuroisoul - To Shizuka
 Upload date  : <DATA MISSING>
 YT ID        : <DATA MISSING>
-Track source : 
+Track source : https://soundcloud.com/bassandformat/to-shizuka
+               https://www.youtube.com/watch?v=G2xmx3h6vMI
+               https://95rpm.tistory.com/88
 Art source   : https://wall.alphacoders.com/big.php?i=51882
 Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
                2) Illustrator of cover art is unknown. Illustration source is unclear.
+               3) "To Shizuka" is the 6th track of album "Autumn Colors", by Kuroisoul (also known as Jeremy Arey). Their YT channel, Facebook account, MySpace and website 
+                  have been removed for unknown reasons. 
+                  More information available at https://www.last.fm/music/k+u+r+o+i+s+o+u+l/+wiki
 
 Title        : My Dead Girlfriend - Kinoshita Fuyou
 Upload date  : Aug 26, 2011
