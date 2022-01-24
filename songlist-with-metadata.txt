@@ -847,7 +847,7 @@ Misc info    : 1) Same illustrator, のみや (Nomiya), as the one artwork used 
 
 Title        : Arafúra - Lost Among The Lost
 Upload date  : <DATA MISSING>
-YT ID        : <DATA MISSING>
+YT ID        : 0sYrS9owbBM
 Track source : 
 Art source   : 
 Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
@@ -905,9 +905,14 @@ Misc info    :
 Title        : Ike Slimster - Never Never
 Upload date  : May 14, 2012
 YT ID        : uL3Z3H0x64Q
-Track source : 
-Art source   : 
-Misc info    : 
+Track source : https://ikeslimster.bandcamp.com/music
+               https://soundcloud.com/ikeslimster
+Art source   : https://danbooru.donmai.us/posts/594843?q=en%40rain
+Misc info    : 1) Illustration removed from Pixiv, but artist profile still intact: https://www.pixiv.net/en/users/90466
+               2) While info on Ike Slimster is not lacking, that for the song titled "Never Never", however, is incredibly scarce.
+                  As of now, the only video aside from Voiced Out's featuring this track consists of a blend of many tracks,
+                  among which Ike Slimster's work was part of: https://www.youtube.com/watch?v=sEyDbxNziRo
+                  A guess would be that this track was at some point available on SoundCloud, but then removed later on.
 
 Title        : Akayaka - Verdure
 Upload date  : May 2, 2012
