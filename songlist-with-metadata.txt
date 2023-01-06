@@ -282,7 +282,7 @@ YT ID        : pDwoEfYaWcs
 Track source : https://soundcloud.com/lutris/aerial-distortion
                https://lutris.bandcamp.com/track/aerial-distortion
 Art source   : https://danbooru.donmai.us/posts/1499934?q=aya_%28star%29
-Misc info    : Illustrator is known as 'aya (star)' on danbooru, gelbooru, etc. Looking at Pixiv's navirank history though, the artist was known as 'e h l'.
+Misc info    : Illustrator is known as 'aya (star)' on danbooru, gelbooru, etc. Looking at Pixiv's navirank (2186509) history though, the artist was known as 'e h l'                from 2012 to 2016, then '峠' from 2016 to 2018, and '0' in 2019. Their last artwork is titled '再见，', perhaps hinting towards their eventual departure.
                Their Pixiv account no longer exists. https://danbooru.donmai.us/artists/75161
 
 Title        : Fekk - DM
