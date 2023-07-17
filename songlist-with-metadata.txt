@@ -728,13 +728,15 @@ Misc info    :
 Title        : Dong - Sentinel
 Upload date  : Oct 26, 2012
 YT ID        : xgVj6IDg7QM
-Track source : 
+Track source : https://netlabeljapan.bandcamp.com/album/--6
+               https://netlabeljapan.bandcamp.com/track/--21
 Art source   : https://www.pixiv.net/en/artworks/36626935
                https://www.duitang.com/blog/?id=10883849
                https://www.zerochan.net/1312032
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
                2) Reuploaded by Joruno: https://www.youtube.com/watch?v=2HPKBGRySu0
                3) SauceNAO links to a reupload on pixiv. The original illustrator is known as '花生', and they created the artwork around 2011.
+               4) I can't believe I actually located the track source...
 
 Title        : NOEL-KIT - Inwardness
 Upload date  : Oct 25, 2012
