@@ -1345,9 +1345,12 @@ Title        : Matsuda Mitsuyoshi - Evening Melody
 Upload date  : Aug 9, 2011
 YT ID        : kmXW4qMdweM
 Track source : https://heatdeathrecords.bandcamp.com/album/scene
-Art source   : 
+Art source   : https://www.zerochan.net/699727
+               https://www.pixiv.net/en/artworks/20769727
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
                2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=9xherYMV0qs
+               3) According to reverse image lookup via SauceNAO, the illustrator is "瓶賀（みかが）", by the ID 876012.
+                  Unfortunately, their profile and artwork no longer exists on Pixiv.
 
 Title        : U-ske - Next Step
 Upload date  : <DATA MISSING>
