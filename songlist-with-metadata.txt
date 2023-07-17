@@ -4,10 +4,11 @@ YT ID        : YUx-TfQk3C8
 Track source : https://lolurio.bandcamp.com/track/fiow
                https://www.youtube.com/watch?v=KSt1Bzkfpqs
 Art source   : https://danbooru.donmai.us/posts/2982641
-Misc info    : Illustrator is くっか (Kukka), also known as hamukukka. Danbooru links the illustration source to
-               https://kukkakukka09.wixsite.com/kukka/work
-               but I haven't been able to view anything other than the cropped thumbnail of the illustration there.
-               Their pixiv is still intact at time of writing: https://www.pixiv.net/en/users/6148565
+Misc info    : 1. Illustrator is くっか (Kukka), also known as hamukukka. Danbooru links the illustration source to
+                  https://kukkakukka09.wixsite.com/kukka/work
+                  but I haven't been able to view anything other than the cropped thumbnail of the illustration there.
+                  Their pixiv is still intact at time of writing: https://www.pixiv.net/en/users/6148565
+               2. Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Ronkon - Slow and Hurry
 Upload date  : May 26, 2021
@@ -554,7 +555,8 @@ YT ID        : ghFBX4F4HdM
 Track source : https://www.youtube.com/watch?v=Q1hRQj_kP7k
                https://soundcloud.com/masafumikomatsu/reflection
 Art source   : https://www.pixiv.net/en/artworks/40102831
-Misc info    : This is a shorter version of 'Reflection'. The full version is uploaded by Voiced Out on May 6, 2015.
+Misc info    : 1) This is a shorter version of 'Reflection'. The full version is uploaded by Voiced Out on May 6, 2015.
+               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Effe - Legion
 Upload date  : May 29, 2014
@@ -571,9 +573,10 @@ YT ID        : 2dkoaSlPrZM
 Track source : https://soundcloud.com/tanukineirirecords/tnr-020-sputnik2017-towa-from
                https://soundcloud.com/sputnik2017
 Art source   : https://www.zerochan.net/1452742
-Misc info    : Another work by 'くろのくろ' (Kuro no Kuro) / 'krnkr721'.
-               Original art on Pixiv has been removed, but their Pixiv profile is still intact.
-               https://www.pixiv.net/en/users/10501094
+Misc info    : 1) Another work by 'くろのくろ' (Kuro no Kuro) / 'krnkr721'.
+                  Original art on Pixiv has been removed, but their Pixiv profile is still intact.
+                  https://www.pixiv.net/en/users/10501094
+               1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Effe - Diastereomer
 Upload date  : May 16, 2014
@@ -628,6 +631,7 @@ Misc info    : 1) The original track source could not be identified. Various sit
                   this tallies with what Voiced Out uploaded. The max length of free samples other than Voiced Out's video is only 4 minutes and 9 seconds
                   long. It is unclear how Voiced Out obtained the uncut version of this track. An educated guess would be that it was at some point available on
                   SoundCloud for free.
+               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Chouchou - Lunaria
 Upload date  : Nov 8, 2013
@@ -726,21 +730,21 @@ Upload date  : Oct 26, 2012
 YT ID        : xgVj6IDg7QM
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : NOEL-KIT - Inwardness
 Upload date  : Oct 25, 2012
 YT ID        : 1f_IJWmjO-k
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Edit Error - Another Sea
 Upload date  : Oct 24, 2012
 YT ID        : Not1M_VdTvM
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Tecra - Berry
 Upload date  : Oct 23, 2012
@@ -805,7 +809,7 @@ Upload date  : Aug 31, 2012
 YT ID        : GRINn7dGTwA
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Takahiro Kido - A Carefree Patient
 Upload date  : Aug 20, 2012
@@ -995,7 +999,7 @@ Upload date  : Apr 5, 2012
 YT ID        : QRr5AouHYNk
 Track source : 
 Art source   : 
-Misc info    :
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Bed. - Gleam
 Upload date  : Apr 3, 2012
@@ -1057,7 +1061,7 @@ Upload date  : Feb 7, 2012
 YT ID        : ZVaG_iimheg
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : SonicBrat - Moth In The Lamp
 Upload date  : Jan 30, 2012
@@ -1288,7 +1292,7 @@ Upload date  : Sep 2, 2011
 YT ID        : DlTc1CtGIGs
 Track source : 
 Art source   : https://www.pixiv.net/en/artworks/21347452
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Kuroisoul - To Shizuka
 Upload date  : <DATA MISSING>
@@ -1308,7 +1312,7 @@ Upload date  : Aug 26, 2011
 YT ID        : 0PoHuTPnwSI
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : YuuyuP - Mirai Memori
 Upload date  : Aug 21, 2011
@@ -1316,14 +1320,15 @@ YT ID        : CfBWzxp9fuY
 Track source : https://vocadb.net/Al/724
 Art source   : 
 Misc info    : 1) This track is actually known as ミラーメモリー (Mirror Memory), from the Vocaloid album 虹色の花 (Nijiiro no Hana) by ゆうゆ (Yuuyu).
-                  Unfortunately, there aren't any other online sources of this song to listen to. 
+                  Unfortunately, there aren't any other online sources of this song to listen to.
+               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Trico - Happy Daily Life
 Upload date  : Aug 16, 2011
 YT ID        : 0_mJcDy5wbU
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : ostooandell - Hero's Hero
 Upload date  : Aug 15, 2011
@@ -1339,7 +1344,7 @@ Upload date  : Aug 15, 2011
 YT ID        : PYhrx39TRqo
 Track source : 
 Art source   : 
-Misc info    : 
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
 
 Title        : Matsuda Mitsuyoshi - Evening Melody
 Upload date  : Aug 9, 2011
