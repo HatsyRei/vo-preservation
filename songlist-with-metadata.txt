@@ -6,7 +6,8 @@ Track source : https://lolurio.bandcamp.com/track/fiow
 Art source   : https://danbooru.donmai.us/posts/2982641
 Misc info    : 1. Illustrator is くっか (Kukka), also known as hamukukka. Danbooru links the illustration source to
                   https://kukkakukka09.wixsite.com/kukka/work
-                  but I haven't been able to view anything other than the cropped thumbnail of the illustration there.
+                  No href appears to be present on the cropped thumbnail of the illustration, but by inspecting and modifying the src,
+                  one can obtain the full res image: https://static.wixstatic.com/media/6974bf_edeeed82f0cd498b84370859f714d32c~mv2_d_4800_2100_s_2.jpg
                   Their pixiv is still intact at time of writing: https://www.pixiv.net/en/users/6148565
                2. Another video removed from Voiced Out's channel, presumably around July, 2023.
 
