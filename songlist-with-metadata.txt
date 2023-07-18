@@ -1324,7 +1324,8 @@ Title        : YuuyuP - Mirai Memori
 Upload date  : Aug 21, 2011
 YT ID        : CfBWzxp9fuY
 Track source : https://vocadb.net/Al/724
-Art source   : 
+Art source   : https://www.pixiv.net/en/artworks/20199163
+               https://danbooru.donmai.us/posts/1003034
 Misc info    : 1) This track is actually known as ミラーメモリー (Mirror Memory), from the Vocaloid album 虹色の花 (Nijiiro no Hana) by ゆうゆ (Yuuyu).
                   Unfortunately, there aren't any other online sources of this song to listen to.
                2) Another video removed from Voiced Out's channel, presumably around July, 2023.
