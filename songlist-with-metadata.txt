@@ -748,9 +748,12 @@ Misc info    : 1) Another video removed from Voiced Out's channel, presumably ar
 Title        : NOEL-KIT - Inwardness
 Upload date  : Oct 25, 2012
 YT ID        : 1f_IJWmjO-k
-Track source : 
-Art source   : 
+Track source : http://bunkai-kei.com/release/bk-k_020/
+               https://www.discogs.com/release/3614687-NOEL-KIT-In-Praise-Of-Shadows
+Art source   : https://www.pixiv.net/en/artworks/45337508
+               https://yande.re/post/show/298278
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=n04PHo34W9o
 
 Title        : Edit Error - Another Sea
 Upload date  : Oct 24, 2012
@@ -1370,9 +1373,12 @@ Misc info    : 1) This track is actually known as ミラーメモリー (Mirror 
 Title        : Trico - Happy Daily Life
 Upload date  : Aug 16, 2011
 YT ID        : 0_mJcDy5wbU
-Track source : 
-Art source   : 
+Track source : https://music.apple.com/jp/album/love-home/270782702
+               https://www.discogs.com/release/591913-Trico-Love-Home
+Art source   : https://www.zerochan.net/600103
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=yRasjdB5ou8
+               3) Track is also known as "普通のしあわせ"
 
 Title        : ostooandell - Hero's Hero
 Upload date  : Aug 15, 2011
