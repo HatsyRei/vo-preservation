@@ -1096,9 +1096,17 @@ Misc info    :
 Title        : Ryota Koduka - Will Of The Species
 Upload date  : Feb 7, 2012
 YT ID        : ZVaG_iimheg
-Track source : 
-Art source   : 
+Track source : https://vgmdb.net/album/26247
+               https://vgmdb.net/album/53199
+Art source   : https://www.pixiv.net/en/artworks/8838034
+               https://www.zerochan.net/395282
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) This is a soundtrack of 'Shin Megami Tensei: Devil Survivor 2'.
+                  Available within the album "DEVIL SURVIVOR 2 Original Sound Track", track 29 "Will Of The Species".
+                  Supposedly the one which was uploaded by Voiced Out was the "Special Sountrack" version available in 
+                  album "DEVIL SURVIVOR 2 Kenji Ito★Atlus Sound Team★Special Soundtrack".
+               3) The difference between the OST version and the "special" version is that the OST version starts around 1 minute into the special version,
+                  when the piano kicks in. The OST version is 3:12 in length and the special version is 4:53.
 
 Title        : SonicBrat - Moth In The Lamp
 Upload date  : Jan 30, 2012
