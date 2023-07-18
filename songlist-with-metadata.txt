@@ -1298,7 +1298,7 @@ Upload date  : Sep 2, 2011
 YT ID        : DlTc1CtGIGs
 Track source : 
 Art source   : https://www.pixiv.net/en/artworks/21347452
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 
 
 Title        : Kuroisoul - To Shizuka
 Upload date  : <DATA MISSING>
@@ -1350,7 +1350,7 @@ Upload date  : Aug 15, 2011
 YT ID        : PYhrx39TRqo
 Track source : 
 Art source   : 
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 
 
 Title        : Matsuda Mitsuyoshi - Evening Melody
 Upload date  : Aug 9, 2011
