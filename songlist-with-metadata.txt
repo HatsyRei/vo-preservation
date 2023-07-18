@@ -1108,6 +1108,7 @@ Misc info    : 1) Another video removed from Voiced Out's channel, presumably ar
                   album "DEVIL SURVIVOR 2 Kenji Ito★Atlus Sound Team★Special Soundtrack".
                3) The difference between the OST version and the "special" version is that the OST version starts around 1 minute into the special version,
                   when the piano kicks in. The OST version is 3:12 in length and the special version is 4:53.
+               4) There's a typo in the upload title- The composer should be 'Ryota Kozuka' instead of 'Ryota Koduka'.
 
 Title        : SonicBrat - Moth In The Lamp
 Upload date  : Jan 30, 2012
