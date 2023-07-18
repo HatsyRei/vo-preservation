@@ -393,6 +393,7 @@ Art source   : https://www.artstation.com/shuxingli
                https://art.alphacoders.com/arts/view/88823
 Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
                2) Illustrator of the art being used is known as "Li Shuxing". Unfortunately, this specific artwork is no longer present in their Artstation profile.
+               3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=BDV2GwxmgBk
 
 Title        : Shelling - Misty Cats
 Upload date  : Dec 14, 2014
@@ -557,6 +558,7 @@ Track source : https://www.youtube.com/watch?v=Q1hRQj_kP7k
 Art source   : https://www.pixiv.net/en/artworks/40102831
 Misc info    : 1) This is a shorter version of 'Reflection'. The full version is uploaded by Voiced Out on May 6, 2015.
                2) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=FzmfD-j8PIE
 
 Title        : Effe - Legion
 Upload date  : May 29, 2014
@@ -576,7 +578,8 @@ Art source   : https://www.zerochan.net/1452742
 Misc info    : 1) Another work by 'くろのくろ' (Kuro no Kuro) / 'krnkr721'.
                   Original art on Pixiv has been removed, but their Pixiv profile is still intact.
                   https://www.pixiv.net/en/users/10501094
-               1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=0Oirj50VciQ
 
 Title        : Effe - Diastereomer
 Upload date  : May 16, 2014
@@ -599,6 +602,7 @@ Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos w
                   https://store.steampowered.com/app/458730/Conception_II_Children_of_the_Seven_Stars/
                3) Cover illustration is official artwork from the game, during a bonding session with Feene.
                   https://youtu.be/oMGGGdJeaLk?t=755
+               4) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=9aK4sOlOLU4
 
 Title        : Fuyuru0 - Sizuku
 Upload date  : Apr 16, 2014
@@ -632,6 +636,7 @@ Misc info    : 1) The original track source could not be identified. Various sit
                   long. It is unclear how Voiced Out obtained the uncut version of this track. An educated guess would be that it was at some point available on
                   SoundCloud for free.
                2) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=hyZUpafQehI
 
 Title        : Chouchou - Lunaria
 Upload date  : Nov 8, 2013
@@ -736,7 +741,9 @@ Art source   : https://www.pixiv.net/en/artworks/36626935
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
                2) Reuploaded by Joruno: https://www.youtube.com/watch?v=2HPKBGRySu0
                3) SauceNAO links to a reupload on pixiv. The original illustrator is known as '花生', and they created the artwork around 2011.
-               4) I can't believe I actually located the track source...
+               4) I can't believe I actually located the track source... The main problem was the track title is in katakana: セ​ン​チ​ネ​ル, in album 旅​す​る​コ​ド​モ
+                  and yes, the artist is titled "Dong", a Japanese chiptune producer according to
+                  https://musicbrainz.org/artist/d12e55b2-bc14-42b7-80a0-65bde5c0074d
 
 Title        : NOEL-KIT - Inwardness
 Upload date  : Oct 25, 2012
@@ -748,9 +755,16 @@ Misc info    : 1) Another video removed from Voiced Out's channel, presumably ar
 Title        : Edit Error - Another Sea
 Upload date  : Oct 24, 2012
 YT ID        : Not1M_VdTvM
-Track source : 
-Art source   : 
+Track source : https://netlabeljapan.bandcamp.com/track/another-sea
+               https://www.youtube.com/watch?v=XwPrStvZmeM
+               http://www.altemarecords.jp/15.html
+Art source   : https://www.zerochan.net/1265011
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Reuploaded by 'Inspiration in Sound': https://www.youtube.com/watch?v=tUWFuFrvO7M
+               3) The artist of the illustration is known by the username "starry11" at some point back in 2011.
+                  Almost hit a dead end until https://www.duitang.com/blogs/tag/?name=starry11
+                  where it is shown that they are also known as "阿星". Following this lead, this should be the artists' weibo profile:
+                  https://weibo.com/n/Starry%E9%98%BF%E6%98%9F
 
 Title        : Tecra - Berry
 Upload date  : Oct 23, 2012
@@ -813,9 +827,15 @@ Misc info    :
 Title        : World's End Girlfriend - 点在について
 Upload date  : Aug 31, 2012
 YT ID        : GRINn7dGTwA
-Track source : 
-Art source   : 
+Track source : https://worldsendgirlfriend.bandcamp.com/track/--12
+               https://www.youtube.com/watch?v=mV0Yfs19qVg
+               https://open.spotify.com/track/2i6bVyxa3WDEF3Ai0wPfS5
+Art source   : https://www.zerochan.net/1000696
+               https://ahohao.tumblr.com/image/77430468037
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Reuploaded by Boketto Life but using a different illustration: https://www.youtube.com/watch?v=GJ-pzxsLG9A
+               3) The illustrator was known as Pozco: https://danbooru.donmai.us/artists/90928
+                  Unfortunately, the original artwork on pixiv, as well as their profile were removed.
 
 Title        : Takahiro Kido - A Carefree Patient
 Upload date  : Aug 20, 2012
@@ -871,10 +891,12 @@ Misc info    : 1) Same illustrator, のみや (Nomiya), as the one artwork used 
 Title        : Arafúra - Lost Among The Lost
 Upload date  : <DATA MISSING>
 YT ID        : 0sYrS9owbBM
-Track source : 
-Art source   : 
+Track source : https://arafura.bandcamp.com/track/lost-among-the-lost
+               https://soundcloud.com/arafura/lost-among-the-lost-in-japan
+Art source   : https://www.deviantart.com/ropedy/art/Hidamari-Wallpaper-151070247
+               https://konachan.com/post/show/67408
 Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
-
+               2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=3xjO4F2MFMk
 
 Title        : Woodblue - Hopeless Love
 Upload date  : May 31, 2012
@@ -900,9 +922,11 @@ Misc info    :
 Title        : Chihei Hatakeyama - White Light
 Upload date  : May 19, 2012
 YT ID        : PQZWFocV0cU
-Track source : 
-Art source   : 
-Misc info    : 
+Track source : https://chiheihatakeyama.bandcamp.com/track/white-light
+Art source   : https://danbooru.donmai.us/posts/237823
+               https://www.zerochan.net/701557
+Misc info    : 1) Illustrator is known as "shiromiso" / "白味噌": https://danbooru.donmai.us/artists/10057
+                  Original artwork was posted to pixiv: https://www.pixiv.net/en/artworks/498772 but removed.
 
 Title        : Sequence Pulse - I Am Your Garden
 Upload date  : May 17, 2012
@@ -1003,9 +1027,13 @@ Misc info    :
 Title        : Talkless - Tas Sa Na Jorn
 Upload date  : Apr 5, 2012
 YT ID        : QRr5AouHYNk
-Track source : 
-Art source   : 
+Track source : https://www.youtube.com/watch?v=AhrhJ6c3mH0
+               https://www.youtube.com/watch?v=FP2GomvPNWs
+Art source   : https://danbooru.donmai.us/posts/492580
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Track title is in Thai: "ทัศนาจร".
+               3) Illustrator is known as "くちびる@喪中", "kuchibiru (lipblue)". Pixiv profile still intact: https://www.pixiv.net/en/users/114886/
+                  Original pixiv artwork link is https://www.pixiv.net/en/artworks/4672312 but was removed.
 
 Title        : Bed. - Gleam
 Upload date  : Apr 3, 2012
@@ -1260,9 +1288,10 @@ Misc info    : 1) Illustrator was known as "Jiru" / ジル. Pixiv ID: 50476, art
 Title        : Flica - Say
 Upload date  : Sep 27, 2011
 YT ID        : T5cIkhFyDFY
-Track source : 
+Track source : https://flica.bandcamp.com/track/say
+               https://open.spotify.com/track/12f6aM0FQvC0XMKapj6o6u
 Art source   : https://www.pixiv.net/en/artworks/10338458
-Misc info    : 
+Misc info    : 1) Flica is affiliated with Muxu. See https://www.discogs.com/artist/1007565-Flica
 
 Title        : Sabi - Mote Diver
 Upload date  : Sep 9, 2011
@@ -1274,10 +1303,12 @@ Misc info    :
 Title        : Lullatone - Slow Waltz
 Upload date  : Sep 9, 2011
 YT ID        : fvs0VqWGbO4
-Track source : 
+Track source : https://lullatone.bandcamp.com/track/a-slow-waltz
+               https://audiodregs.bandcamp.com/track/a-slow-waltz
+               https://open.spotify.com/track/4hdO9AshwWlGXdy5k3FDO0
 Art source   : https://www.pixiv.net/en/artworks/5934538
                https://safebooru.donmai.us/posts/957192
-Misc info    : 
+Misc info    : 1) Check out Lullatone! https://www.lullatone.com/
 
 Title        : Kiichi - Riri
 Upload date  : Sep 4, 2011
@@ -1312,13 +1343,19 @@ Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos w
                3) "To Shizuka" is the 6th track of album "Autumn Colors", by Kuroisoul (also known as Jeremy Arey). Their YT channel, Facebook account, MySpace and website 
                   have been removed for unknown reasons. 
                   More information available at https://www.last.fm/music/k+u+r+o+i+s+o+u+l/+wiki
+               4) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=4iWUmsZHMh0
 
 Title        : My Dead Girlfriend - Kinoshita Fuyou
 Upload date  : Aug 26, 2011
 YT ID        : 0PoHuTPnwSI
-Track source : 
-Art source   : 
+Track source : https://open.spotify.com/track/1hSIZNcb0QxEEIzEO1ysnG
+               https://music.apple.com/us/song/kinoshita-fuyou/1009117352
+Art source   : https://danbooru.donmai.us/posts/201223
+               https://www.zerochan.net/701586
 Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Reuploaded by Shion (foregroundnoises) but with a different artwork: https://www.youtube.com/watch?v=p47i4f7gLOo
+               3) Illustrator is known as "shiromiso" / "白味噌": https://danbooru.donmai.us/artists/10057
+                  Original artwork was posted to pixiv: https://www.pixiv.net/en/artworks/369670 but removed.
 
 Title        : YuuyuP - Mirai Memori
 Upload date  : Aug 21, 2011
@@ -1372,10 +1409,18 @@ Track source : https://vocadb.net/S/5744
 Art source   : https://www.zerochan.net/509519
 Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
                2) Illustrator is supposedly named "Ly-chee". Pixiv ID: 1064724. Unfortunately, their profile and artwork no longer exists on Pixiv.
+               3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=BvZWSxw6sXM
 
 Title        : Muxu - People Running Away
 Upload date  : <DATA MISSING>
 YT ID        : <DATA MISSING>
-Track source : 
+Track source : https://www.youtube.com/watch?v=NAMna3xBOZY
+               https://archive.org/details/mtk190
 Art source   : 
 Misc info    : 1) Following Voiced Out's return in 2021, a total of six videos were removed from their channel for unknown reasons. This is one of them.
+               2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=Y8VsL2Ndu3c
+               3) Apparently, 'Muxu' is an electronica duo consisting of 'Euseng Seto' and 'Huat Liang'.
+                  'Euseng Seto' is also known as 'Flica'. 
+                  - https://www.discogs.com/artist/1007565-Flica
+                  - https://www.discogs.com/artist/721055-muxu
+                  - https://juiceonline.com/interview-muxu/
