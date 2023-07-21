@@ -9,7 +9,7 @@ Misc info    : 1. Illustrator is くっか (Kukka), also known as hamukukka. Dan
                   No href appears to be present on the cropped thumbnail of the illustration, but by inspecting and modifying the src,
                   one can obtain the full res image: https://static.wixstatic.com/media/6974bf_edeeed82f0cd498b84370859f714d32c~mv2_d_4800_2100_s_2.jpg
                   Their pixiv is still intact at time of writing: https://www.pixiv.net/en/users/6148565
-               2. Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2. Another video removed from Voiced Out's channel, presumably around April, 2023.
 
 Title        : Ronkon - Slow and Hurry
 Upload date  : May 26, 2021
@@ -558,7 +558,7 @@ Track source : https://www.youtube.com/watch?v=Q1hRQj_kP7k
                https://soundcloud.com/masafumikomatsu/reflection
 Art source   : https://www.pixiv.net/en/artworks/40102831
 Misc info    : 1) This is a shorter version of 'Reflection'. The full version is uploaded by Voiced Out on May 6, 2015.
-               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Another video removed from Voiced Out's channel, presumably around April, 2023.
                3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=FzmfD-j8PIE
 
 Title        : Effe - Legion
@@ -579,7 +579,7 @@ Art source   : https://www.zerochan.net/1452742
 Misc info    : 1) Another work by 'くろのくろ' (Kuro no Kuro) / 'krnkr721'.
                   Original art on Pixiv has been removed, but their Pixiv profile is still intact.
                   https://www.pixiv.net/en/users/10501094
-               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Another video removed from Voiced Out's channel, presumably around April, 2023.
                3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=0Oirj50VciQ
 
 Title        : Effe - Diastereomer
@@ -636,7 +636,7 @@ Misc info    : 1) The original track source could not be identified. Various sit
                   this tallies with what Voiced Out uploaded. The max length of free samples other than Voiced Out's video is only 4 minutes and 9 seconds
                   long. It is unclear how Voiced Out obtained the uncut version of this track. An educated guess would be that it was at some point available on
                   SoundCloud for free.
-               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Another video removed from Voiced Out's channel, presumably around April, 2023.
                3) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=hyZUpafQehI
 
 Title        : Chouchou - Lunaria
@@ -739,7 +739,7 @@ Track source : https://netlabeljapan.bandcamp.com/album/--6
 Art source   : https://www.pixiv.net/en/artworks/36626935
                https://www.duitang.com/blog/?id=10883849
                https://www.zerochan.net/1312032
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Reuploaded by Joruno: https://www.youtube.com/watch?v=2HPKBGRySu0
                3) SauceNAO links to a reupload on pixiv. The original illustrator is known as '花生', and they created the artwork around 2011.
                4) I can't believe I actually located the track source... The main problem was the track title is in katakana: セ​ン​チ​ネ​ル, in album 旅​す​る​コ​ド​モ
@@ -753,7 +753,7 @@ Track source : http://bunkai-kei.com/release/bk-k_020/
                https://www.discogs.com/release/3614687-NOEL-KIT-In-Praise-Of-Shadows
 Art source   : https://www.pixiv.net/en/artworks/45337508
                https://yande.re/post/show/298278
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=n04PHo34W9o
 
 Title        : Edit Error - Another Sea
@@ -763,7 +763,7 @@ Track source : https://netlabeljapan.bandcamp.com/track/another-sea
                https://www.youtube.com/watch?v=XwPrStvZmeM
                http://www.altemarecords.jp/15.html
 Art source   : https://www.zerochan.net/1265011
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Reuploaded by 'Inspiration in Sound': https://www.youtube.com/watch?v=tUWFuFrvO7M
                3) The artist of the illustration is known by the username "starry11" at some point back in 2011.
                   Almost hit a dead end until https://www.duitang.com/blogs/tag/?name=starry11
@@ -836,7 +836,7 @@ Track source : https://worldsendgirlfriend.bandcamp.com/track/--12
                https://open.spotify.com/track/2i6bVyxa3WDEF3Ai0wPfS5
 Art source   : https://www.zerochan.net/1000696
                https://ahohao.tumblr.com/image/77430468037
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Reuploaded by Boketto Life but using a different illustration: https://www.youtube.com/watch?v=GJ-pzxsLG9A
                3) The illustrator was known as Pozco: https://danbooru.donmai.us/artists/90928
                   Unfortunately, the original artwork on pixiv, as well as their profile were removed.
@@ -1034,7 +1034,7 @@ YT ID        : QRr5AouHYNk
 Track source : https://www.youtube.com/watch?v=AhrhJ6c3mH0
                https://www.youtube.com/watch?v=FP2GomvPNWs
 Art source   : https://danbooru.donmai.us/posts/492580
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Track title is in Thai: "ทัศนาจร".
                3) Illustrator is known as "くちびる@喪中", "kuchibiru (lipblue)". Pixiv profile still intact: https://www.pixiv.net/en/users/114886/
                   Original pixiv artwork link is https://www.pixiv.net/en/artworks/4672312 but was removed.
@@ -1101,7 +1101,7 @@ Track source : https://vgmdb.net/album/26247
                https://vgmdb.net/album/53199
 Art source   : https://www.pixiv.net/en/artworks/8838034
                https://www.zerochan.net/395282
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) This is a soundtrack of 'Shin Megami Tensei: Devil Survivor 2'.
                   Available within the album "DEVIL SURVIVOR 2 Original Sound Track", track 29 "Will Of The Species".
                   Supposedly the one which was uploaded by Voiced Out was the "Special Sountrack" version available in 
@@ -1365,7 +1365,7 @@ Track source : https://open.spotify.com/track/1hSIZNcb0QxEEIzEO1ysnG
                https://music.apple.com/us/song/kinoshita-fuyou/1009117352
 Art source   : https://danbooru.donmai.us/posts/201223
                https://www.zerochan.net/701586
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Reuploaded by Shion (foregroundnoises) but with a different artwork: https://www.youtube.com/watch?v=p47i4f7gLOo
                3) Illustrator is known as "shiromiso" / "白味噌": https://danbooru.donmai.us/artists/10057
                   Original artwork was posted to pixiv: https://www.pixiv.net/en/artworks/369670 but removed.
@@ -1378,7 +1378,7 @@ Art source   : https://www.pixiv.net/en/artworks/20199163
                https://danbooru.donmai.us/posts/1003034
 Misc info    : 1) This track is actually known as ミラーメモリー (Mirror Memory), from the Vocaloid album 虹色の花 (Nijiiro no Hana) by ゆうゆ (Yuuyu).
                   Unfortunately, there aren't any other online sources of this song to listen to.
-               2) Another video removed from Voiced Out's channel, presumably around July, 2023.
+               2) Another video removed from Voiced Out's channel, presumably around April, 2023.
 
 Title        : Trico - Happy Daily Life
 Upload date  : Aug 16, 2011
@@ -1386,7 +1386,7 @@ YT ID        : 0_mJcDy5wbU
 Track source : https://music.apple.com/jp/album/love-home/270782702
                https://www.discogs.com/release/591913-Trico-Love-Home
 Art source   : https://www.zerochan.net/600103
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=yRasjdB5ou8
                3) Track is also known as "普通のしあわせ"
 
@@ -1412,7 +1412,7 @@ YT ID        : kmXW4qMdweM
 Track source : https://heatdeathrecords.bandcamp.com/album/scene
 Art source   : https://www.zerochan.net/699727
                https://www.pixiv.net/en/artworks/20769727
-Misc info    : 1) Another video removed from Voiced Out's channel, presumably around July, 2023.
+Misc info    : 1) Another video removed from Voiced Out's channel, presumably around April, 2023.
                2) Reuploaded by Cold Sensor: https://www.youtube.com/watch?v=9xherYMV0qs
                3) According to reverse image lookup via SauceNAO, the illustrator is "瓶賀（みかが）", by the ID 876012.
                   Unfortunately, their profile and artwork no longer exists on Pixiv.
