@@ -1321,7 +1321,7 @@ Upload date  : Sep 9, 2011
 YT ID        : 9W153qq1v-4
 Track source : https://boltfishrecordings.bandcamp.com/track/mote-diver
                https://www.youtube.com/watch?v=Em5mBURwIWA
-Art source   : 
+Art source   : https://www.pixiv.net/en/artworks/18841204
 Misc info    : 1) 14th track of album 'Glued on Thin Memories' by Sabi.
 
 Title        : Lullatone - Slow Waltz
