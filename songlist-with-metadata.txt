@@ -6,6 +6,7 @@ Track source : https://soundcloud.com/leorinda/freude
 Art source   : https://www.pixiv.net/en/artworks/42732108
 Misc info    : 1. Original song by Mao Sasagawa / Sasagawa Mao 笹川真生
                   https://www.youtube.com/watch?v=2JljwYzV4TE
+               2. Same illustrator (emukami / えむかみ) as the one for Flica - Say, Kiichi - Sunflower, Blazo - Little Piano, Kiichi - Riri
 
 Title        : Lolurio - Flow
 Upload date  : Jan 18, 2023
@@ -1033,9 +1034,9 @@ Misc info    :
 Title        : Sabi - Glued On Thin Memories
 Upload date  : Apr 5, 2012
 YT ID        : OcPRK90azd4
-Track source : 
+Track source : https://boltfishrecordings.bandcamp.com/track/glued-on-thin-memories
 Art source   : 
-Misc info    : 
+Misc info    : 1) 6th track from album 'Glued On This Memories' by Sabi.
 
 Title        : Talkless - Tas Sa Na Jorn
 Upload date  : Apr 5, 2012
@@ -1318,9 +1319,10 @@ Misc info    : 1) Flica is affiliated with Muxu. See https://www.discogs.com/art
 Title        : Sabi - Mote Diver
 Upload date  : Sep 9, 2011
 YT ID        : 9W153qq1v-4
-Track source : 
+Track source : https://boltfishrecordings.bandcamp.com/track/mote-diver
+               https://www.youtube.com/watch?v=Em5mBURwIWA
 Art source   : 
-Misc info    : 
+Misc info    : 1) 14th track of album 'Glued on Thin Memories' by Sabi.
 
 Title        : Lullatone - Slow Waltz
 Upload date  : Sep 9, 2011
